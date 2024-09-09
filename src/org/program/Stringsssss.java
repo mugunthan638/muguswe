@@ -17,6 +17,7 @@ public class Stringsssss {
 	      
 	  }
 		  
+	System.out.println("Sucess");	  
 		  
   }
 
